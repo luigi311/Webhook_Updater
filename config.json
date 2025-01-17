@@ -1,0 +1,14 @@
+{
+    "apps": [
+      {
+        "repo_name": "my-org/my-app1",
+        "compose_file": "/path/to/app1/docker-compose.yml",
+        "image_tag": "my-org/my-app1:latest"
+      },
+      {
+        "repo_name": "my-org/my-app2",
+        "compose_file": "/path/to/app2/docker-compose.yml",
+        "image_tag": "my-org/my-app2:latest"
+      }
+    ]
+  }
